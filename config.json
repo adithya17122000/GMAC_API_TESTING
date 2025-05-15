@@ -1,0 +1,7 @@
+{
+  "url": "https://advancery.dev.gmac.com/api/users/me",
+  "headers": {
+    "accept": "application/json",
+    "Authorization": "Bearer <<TOKEN>>"
+  }
+}
